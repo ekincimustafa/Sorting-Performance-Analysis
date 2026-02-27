@@ -48,6 +48,5 @@ The program evaluates the algorithms based on iteration/recursive step counts. E
 Bubble priority sort iteration count: 45
 Merge priority sort n_of right array is smaller than left: 11
 Quick priority sort recursive step count: 3
-
 ```
 *Note: Merge and Quick sorts significantly outperform Bubble Sort in larger datasets, as demonstrated in the generated metrics.*
